@@ -237,3 +237,6 @@ console.log(mergedString);
 const inputString11 = 'learn Javascript';
 
 console.log(inputString11.repeat(2));
+
+//Day 3
+
