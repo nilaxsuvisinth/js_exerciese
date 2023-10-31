@@ -21,3 +21,16 @@ do{
     console.log(x)
     i++;
 } while(i<5);
+
+
+//    <=======================>    //
+
+
+class Person {
+    constructor(ID, name, age) {
+      this.ID = ID
+      this.name = name;
+      this.age = age;
+    }
+}  
+const person1 = new Person("id12", "Nilax", 24);
